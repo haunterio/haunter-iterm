@@ -2,6 +2,8 @@
 
 A spooky color theme for iterm2.
 
+![Haunter Iterm](screen.png)
+
 ## Install
 
 + Launch iTerm 2
